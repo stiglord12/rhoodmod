@@ -12,23 +12,23 @@ Items: {
 	}
 
 	GlockWASwitch: {
-		DisplayName: Glock W A Switch
-		Tooltip: ""
+		DisplayName: Glock With A Switch
+		Tooltip: "King Von's favorite."
 	}
 
 	PurpleMethod: {
 		DisplayName: Purple Method
-		Tooltip: ""
+		Tooltip: "BLACKS1"
 	}
 
 	BabyOil: {
 		DisplayName: Baby Oil
-		Tooltip: ""
+		Tooltip: "Bought in bulk from Costco."
 	}
 
 	EFNMusicBox: {
-		DisplayName: E F N Music Box
-		Tooltip: ""
+		DisplayName: EFN Music Box
+		Tooltip: "'These damn jews.'"
 	}
 }
 
