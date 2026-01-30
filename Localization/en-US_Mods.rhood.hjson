@@ -1,0 +1,35 @@
+# This file will automatically update with entries for new content after a build and reload.
+
+Items: {
+	BasicSword: {
+		DisplayName: Basic Sword
+		Tooltip:
+			'''
+			Template of an item
+			Replacing this tooltip is duty 
+			It's snowing on Mt.Fuji
+			'''
+	}
+
+	GlockWASwitch: {
+		DisplayName: Glock W A Switch
+		Tooltip: ""
+	}
+
+	PurpleMethod: {
+		DisplayName: Purple Method
+		Tooltip: ""
+	}
+
+	BabyOil: {
+		DisplayName: Baby Oil
+		Tooltip: ""
+	}
+
+	EFNMusicBox: {
+		DisplayName: E F N Music Box
+		Tooltip: ""
+	}
+}
+
+Projectiles.GlockBullet.DisplayName: Glock Bullet
